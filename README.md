@@ -11,3 +11,10 @@ git remote add origin https://github.com/TatyanaMolchanova/my-travel-plans1.git
 
 to watch info about commits
 git log --oneline --graph --decorate --all
+
+git pull origin master
+
+git log --stat
+
+git fetch
+git pull == git fetch + git merge
